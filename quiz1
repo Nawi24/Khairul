@@ -1,0 +1,10 @@
+cd Desktop
+dir
+mkdir quiz1
+cd quiz1
+git init
+git commit -m "first commit"
+git commit -m "nawi"
+git branch -M main
+git remote add origin https://github.com/Nawi24/Khairul.git
+git push https://github.com/Nawi24/Khairul.git
